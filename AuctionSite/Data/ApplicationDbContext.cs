@@ -12,8 +12,5 @@ namespace AuctionSite.Data
             : base(options)
         {
         }
-
-
-        // put DbSets<> here like normal
     }
 }
