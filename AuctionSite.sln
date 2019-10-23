@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.168
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29318.209
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuctionSite", "AuctionSite\AuctionSite.csproj", "{6230D88C-13BD-40D9-AFAF-6A547AD6E54D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuctionSite", "AuctionSite\AuctionSite.csproj", "{6230D88C-13BD-40D9-AFAF-6A547AD6E54D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuctionSiteTests", "AuctionSiteTests\AuctionSiteTests.csproj", "{D92F3165-26D5-4B42-B8D4-C2E5D11F1AED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{6230D88C-13BD-40D9-AFAF-6A547AD6E54D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6230D88C-13BD-40D9-AFAF-6A547AD6E54D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6230D88C-13BD-40D9-AFAF-6A547AD6E54D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D92F3165-26D5-4B42-B8D4-C2E5D11F1AED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D92F3165-26D5-4B42-B8D4-C2E5D11F1AED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D92F3165-26D5-4B42-B8D4-C2E5D11F1AED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D92F3165-26D5-4B42-B8D4-C2E5D11F1AED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
