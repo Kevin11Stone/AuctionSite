@@ -12,7 +12,7 @@ namespace AuctionSite.Controllers
     {
         public IActionResult Index()
         {
-            return View();oij
+            return View();
         }
 
         public IActionResult Privacy()
